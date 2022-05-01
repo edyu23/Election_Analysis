@@ -87,23 +87,3 @@ with open(file_to_load) as election_data:
     # print(winning_candidate_summary)
 
 
-
-
-
-   
-
-
-
-# Using the open() function with the "w" mode we will write data to the file.
-with open(file_to_save, "w") as txt_file:
-
-# Write some data to the file
-    txt_file.write("Counties in the Election\n")
-    txt_file.write("-------------------------\n")
-    txt_file.write("Arapahoe\n")
-    txt_file.write("Denver\n")
-    txt_file.write("Jefferson\n")
-
-# Close the file
-    txt_file.close()
-
