@@ -7,7 +7,7 @@
 
   ###### **How many votes were cast in this congressional election?**
     - 369,711
-  ###### *Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.**
+  ###### **Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.**
     - Jefferson: 30,855 Votes (10.5%)
     - Denver: 306,055 Votes (82.8%)
     - Arapahoe: 24,801 Votes (6.7%)
