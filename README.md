@@ -23,4 +23,4 @@
   ![This is an image](https://github.com/edyu23/Election_Analysis/blob/8e55b4d83b1a90ef9a14e0570d3b6c870514d9bd/2022-05-01%20(2).png)
 
 ## Election-Audit Summary
-  We can utilize this script and apply it to other elections. The path to the .csv file would need to be change as well as the .txt file so we can analyze other elections.
+  We can utilize this script and apply it to other elections. The path to the .csv file would need to be changed as well as the .txt file so we can analyze other elections.
