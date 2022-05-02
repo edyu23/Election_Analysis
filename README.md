@@ -20,7 +20,7 @@
   ###### **Which candidate won the election, what was their vote count, and what was thir percentage of the total votes?**
     - Diana DeGette won this election. She had 272,892 votes and carried 73.8% of the total vote
     
-    ![This is an image](https://github.com/edyu23/Election_Analysis/blob/8e55b4d83b1a90ef9a14e0570d3b6c870514d9bd/2022-05-01%20(2).png)
+  ![This is an image](https://github.com/edyu23/Election_Analysis/blob/8e55b4d83b1a90ef9a14e0570d3b6c870514d9bd/2022-05-01%20(2).png)
 
 ## Election-Audit Summary
   We can utilize this script and apply it to other elections. The path to the .csv file would need to be change as well as the .txt file so we can analyze other elections.
